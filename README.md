@@ -1,7 +1,9 @@
 
 <img src="http://s9.picofile.com/file/8338833934/DS.png"/>
  <a id="0"></a> <br>
+ 
 ## 8- How to solve Problem?
+
 **Data Science has so many techniques and procedures that can confuse anyone.**
 
 Step 1: Translate your business problem statement into technical one
