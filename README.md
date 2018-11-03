@@ -1,7 +1,7 @@
 
 <img src="http://s9.picofile.com/file/8338833934/DS.png"/>
  <a id="0"></a> <br>
- ## <div align="center">  10 Steps to Become a Data Scientist</div>
+ ## 10 Steps to Become a Data Scientist
  <div align="center">**quite practical and far from any theoretical concepts**</div>
 <div style="text-align:center">last update: <b>10/30/2018</b></div>
  <a id="1"></a> <br>
