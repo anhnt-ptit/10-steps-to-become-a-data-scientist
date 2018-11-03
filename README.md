@@ -1,11 +1,11 @@
 
 <img src="http://s9.picofile.com/file/8338833934/DS.png"/>
  <a id="0"></a> <br>
- ##10 Steps to Become a Data Scientist
- <div align="center">**quite practical and far from any theoretical concepts**</div>
+ # 10 Steps to Become a Data Scientist
+ <div align="center">quite practical and far from any theoretical concepts</div>
 <div style="text-align:center">last update: <b>10/30/2018</b></div>
  <a id="1"></a> <br>
-#0- Introduction
+# 0- Introduction
 If you Read and Follow **Job Ads** to hire a machine learning expert or a data scientist, you find that some skills you should have to get the job.
 
 In this Kernel, I want to review **10 skills** that are essentials to get the job
