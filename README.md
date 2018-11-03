@@ -1,11 +1,11 @@
 
 <img src="http://s9.picofile.com/file/8338833934/DS.png"/>
  <a id="0"></a> <br>
- ## 10 Steps to Become a Data Scientist
+ ##10 Steps to Become a Data Scientist
  <div align="center">**quite practical and far from any theoretical concepts**</div>
 <div style="text-align:center">last update: <b>10/30/2018</b></div>
  <a id="1"></a> <br>
-#  0- Introduction
+#0- Introduction
 If you Read and Follow **Job Ads** to hire a machine learning expert or a data scientist, you find that some skills you should have to get the job.
 
 In this Kernel, I want to review **10 skills** that are essentials to get the job
@@ -62,12 +62,12 @@ for Reading this section **please** fork and upvote  this kernel:
 As **machine learning engineer** I would like to compare 4 machine learning programming languages(tools). Let's take this a bit deeper. Since most of us are concerned with ML and analysis being a big part of why we are using these programs. I want to list a few advantages and disadvantages of each for who want to start learning them as a data scientist.
 
 
-## 1-1-1 R
+##1-1-1 R
 
 R is a language and environment for statistical computing and graphics. It is a GNU project which is similar to the S language and environment which was developed at Bell Laboratories (formerly AT&amp;T, now Lucent Technologies) by **John Chambers** and colleagues. **R** can be considered as a different implementation of S. There are some important differences, but much code written for S runs unaltered under R.
 
 
-### 1-1-1-1 Advantages of R 
+###1-1-1-1 Advantages of R 
 
 
 * End To End development to execution (some brokers packages allows execution, IB)
