@@ -6,54 +6,12 @@
  
  <div align="center">quite practical and far from any theoretical concepts</div>
 
-# 0- Introduction
+#  Introduction
 If you Read and Follow **Job Ads** to hire a machine learning expert or a data scientist, you find that some skills you should have to get the job.
 In this Kernel, I want to review **10 skills** that are essentials to get the job
 
 In fact, this kernel is a reference for **ten other kernels**, which you can learn with them,  all of the skills that you need.
-## 0-1 papers
-You may not like these 10 steps or have an idea other than this!!! But I just want to list 10 steps that I consider to be the most important thing to do, and surely other skills are needed for the Data Scientist. here I listed some papers around the internet Which can help everyone better understand the work process!!
-
-1- [10-steps-to-become-data-scientist-in-2018](https://dzone.com/articles/10-steps-to-become-data-scientist-in-2018)
-
-2- [10-steps-to-become-a-data-scientist](http://techtowntraining.com/resources/tools-resources/10-steps-to-become-a-data-scientist)
-
-3- [ultimate-learning-path-becoming-data-scientist-2018](https://www.analyticsvidhya.com/blog/2018/01/ultimate-learning-
-path-becoming-data-scientist-2018/)
-
-4- [become-a-data-scientist](https://elitedatascience.com/become-a-data-scientist)
-## 0-2 Books
-There are plenty of E-books(free). here is **10 free machine learning Ebooks** that can make your dreams come true [4]:
-
-1. [Probability and Statistics for Programmers](http://www.greenteapress.com/thinkstats/)
-2. [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/091117.pdf)
-2. [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
-2. [Understanding Machine Learning](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html)
-2. [A Programmer’s Guide to Data Mining](http://guidetodatamining.com/)
-2. [Mining of Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/book.pdf)
-2. [A Brief Introduction to Neural Networks](http://www.dkriesel.com/_media/science/neuronalenetze-en-zeta2-2col-dkrieselcom.pdf)
-2. [Deep Learning](http://www.deeplearningbook.org/)
-2. [Natural Language Processing with Python](https://www.researchgate.net/publication/220691633_Natural_Language_Processing_with_Python)
-2. [Machine Learning Yearning](http://www.mlyearning.org/)
-
-## 0-3 cheat sheets
-Data Science is an ever-growing field, there are numerous tools & techniques to remember. It is not possible for anyone to remember all the functions, operations and formulas of each concept. That’s why we have cheat sheets.
-1. [Quick Guide to learn Python for Data Science ](https://www.analyticsvidhya.com/blog/2015/05/infographic-quick-guide-learn-python-data-science/)
-1. [Python for Data Science Cheat sheet ](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf)
-1. [Python For Data Science Cheat Sheet NumPy ](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
-1. [Exploratory Data Analysis in Python ](https://www.analyticsvidhya.com/blog/2015/06/infographic-cheat-sheet-data-exploration-python/)
-1. [Data Visualisation in Python ](https://www.analyticsvidhya.com/blog/2015/06/data-visualization-in-python-cheat-sheet/)
-1. [Python For Data Science Cheat Sheet Bokeh ](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Bokeh_Cheat_Sheet.pdf)
-1. [Cheat Sheet: Scikit Learn ](https://www.analyticsvidhya.com/infographics/Scikit-Learn-Infographic.pdf)
-1. [Steps To Perform Text Data Cleaning in Python](https://www.analyticsvidhya.com/blog/2015/06/quick-guide-text-data-cleaning-python/)
-1. [Probability Basics  Cheat Sheet](http://www.sas.upenn.edu/~astocker/lab/teaching-files/PSYC739-2016/probability_cheatsheet.pdf)
-1. [Probability cheat sheet for distribution](http://www.cs.elte.hu/~mesti/valszam/kepletek)
-
-## 0-4 Data Science vs. Big Data vs. Data Analytics
-<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Data_Science_vs_Data_Analytics_vs_Big_Data_2.png">
- <a id="1"></a> <br>
 # 1-Python
-
 for Reading this section **please** fork and upvote  this kernel:
 
 [numpy-pandas-matplotlib-seaborn-scikit-learn](https://www.kaggle.com/mjbahmani/numpy-pandas-matplotlib-seaborn-scikit-learn)
@@ -193,7 +151,6 @@ for Reading this section **please** fork and upvote  this kernel:
 [A-Journey-with-scikit-learn](https://www.kaggle.com/mjbahmani/a-journey-with-scikit-learn)
 <a id="45"></a> <br>
 ##  3- Mathematics and Linear Algebra
-
 
 <img src=" https://s3.amazonaws.com/www.mathnasium.com/upload/824/images/algebra.jpg " height="300" width="300">
 
