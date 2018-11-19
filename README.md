@@ -176,16 +176,6 @@ for Reading this section **please** fork and upvote  this kernel:
 
 [numpy-pandas-matplotlib-seaborn-scikit-learn](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/2-python%20packages/The%20Data%20Scientist%E2%80%99s%20Toolbox%20Tutorial.ipynb)
 
-<a id="44"></a> <br>
-## 2-4 SKlearn
-
-
-
-for Reading this section **please** fork and upvote  this kernel:
-
-[A-Journey-with-scikit-learn](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/2-python%20packages/A%20Journey%20with%20Scikit-Learn%20%2B%2020%20ML%20Algorithms.ipynb)
-<a id="45"></a> <br>
-
 ##  3- Mathematics and Linear Algebra
 
 for Reading this section **please** fork and upvote  this kernel:
