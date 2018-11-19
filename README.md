@@ -24,20 +24,32 @@ In fact, this Repository is a reference for **10 other Notebooks**, which you ca
 # 1-Python
 Python is a modern, robust, high level programming language. It is very easy to pick up even if you are completely new to programming.
 
-It is used for:
+You ca read and learn following topic:
 
-1. web development (server-side),
-1. software development,
-1. mathematics,
+1. web development (server-side)
+
+1. software development
+
+1. mathematics
+
 1. system scripting.
+
 1. Basics
+
 1. Functions
+
 1. Types and Sequences
+
 1. More on Strings
+
 1. Reading and Writing CSV files
+
 1. Dates and Times
+
 1. Objects and map()
+
 1. Lambda and List Comprehensions
+
 1. OOP
 for Reading this section **please** fork and upvote  this kernel:
 
@@ -146,10 +158,7 @@ for Reading this section **please** fork and upvote  this kernel:
 
 [A-Comprehensive-Deep-Learning-Workflow-with-Python](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/tree/master/10-A%20comprehensive%20Deep%20Learning%20WorkFlow%20With%20Python)
 ---------------------------------------------------------------------
-Fork and Run this kernel on GitHub:
-> ###### [ GitHub](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist)
-
  Have Fun!
-1. Follow me On [GitHub](https://github.com/mjbahmani/)
+> ###### 1. Follow me On [GitHub](https://github.com/mjbahmani/)
  
-2. Follow me On [Kaggle](https://www.kaggle.com/mjbahmani)
+> ###### 2. Follow me On [Kaggle](https://www.kaggle.com/mjbahmani)
