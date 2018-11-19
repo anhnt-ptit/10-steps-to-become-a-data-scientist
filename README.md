@@ -22,6 +22,23 @@ In this Repository, I want to review **10 skills** that are essentials to get th
 
 In fact, this Repository is a reference for **10 other Notebooks**, which you can learn with them,  all of the skills that you need.
 # 1-Python
+Python is a modern, robust, high level programming language. It is very easy to pick up even if you are completely new to programming.
+
+It is used for:
+
+1. web development (server-side),
+1. software development,
+1. mathematics,
+1. system scripting.
+1. Basics
+1. Functions
+1. Types and Sequences
+1. More on Strings
+1. Reading and Writing CSV files
+1. Dates and Times
+1. Objects and map()
+1. Lambda and List Comprehensions
+1. OOP
 for Reading this section **please** fork and upvote  this kernel:
 
 [numpy-pandas-matplotlib-seaborn-scikit-learn](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/1-python/The%20Data%20Scientist%E2%80%99s%20Toolbox%20Tutorial.ipynb)
@@ -32,6 +49,57 @@ for Reading this section **please** fork and upvote  this kernel:
 * Matplotlib
 * Seaborn
 <img src="http://s8.picofile.com/file/8338227868/packages.png">
+we have a comprehensive tutorials for Five packages in python after that you can read my other kernels about machine learning
+1. Numpy
+ 1. Creating Arrays
+ 1. Combining Arrays
+ 1. Operations
+ 1. Math Functions
+ 1. Indexing / Slicing
+ 1. Copying Data
+ 1. Iterating Over Arrays
+ 1. The Series Data Structure
+ 1. Querying a Series
+1. Pandas
+ 1. The DataFrame Data Structure
+ 1. Dataframe Indexing and Loading
+ 1. Missing values
+ 1. Merging Dataframes
+ 1. Making Code Pandorable
+ 1. Group by
+ 1. Scales
+ 1. Pivot Tables
+ 1. Date Functionality
+ 1. Distributions in Pandas
+ 1. Hypothesis Testing
+ 1. Matplotlib
+ 1. Scatterplots
+ 1. Line Plots
+ 1. Bar Charts
+ 1. Histograms
+ 1. Box and Whisker Plots
+ 1. Heatmaps
+ 1. Animations
+ 1. Interactivity
+ 1. DataFrame.plot
+1. seaborn
+ 1. Seaborn Vs Matplotlib
+ 1. Useful Python Data Visualization Libraries
+1. SKlearn
+ 1. Introduction
+ 1. Algorithms
+ 1. Framework
+ 1. Applications
+ 1. Data
+ 1. Supervised Learning: Classification
+ 1. Separate training and testing sets
+ 1. linear, binary classifier
+ 1. Prediction
+ 1. Back to the original three-class problem
+ 1. Evaluating the classifier
+ 1. Using the four flower attributes
+ 1. Unsupervised Learning: Clustering
+ 1. Supervised Learning: Regression
 for Reading this section **please** fork and upvote  this kernel:
 
 [numpy-pandas-matplotlib-seaborn-scikit-learn](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/2-python%20packages/The%20Data%20Scientist%E2%80%99s%20Toolbox%20Tutorial.ipynb)
