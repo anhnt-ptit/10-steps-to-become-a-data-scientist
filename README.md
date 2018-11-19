@@ -5,16 +5,16 @@
  # 10 Steps to Become a Data Scientist
  
   
-1. [Python]
-1. [Python Packages]
-1. [Mathematics and Linear Algebra]
-1. [Programming & Analysis Tools]
-1. [Big Data]
+1. [Python](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/1-python/The%20Data%20Scientist%E2%80%99s%20Toolbox%20Tutorial.ipynb)
+1. [Python Packages](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/1-python/The%20Data%20Scientist%E2%80%99s%20Toolbox%20Tutorial.ipynb)
+1. [Mathematics and Linear Algebra](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/3-%20Mathematics%20and%20Linear%20Algebra/Linear%20Algebra%20for%20Data%20Scientists.ipynb)
+1. [Programming & Analysis Tools](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/4-Programming%20%26%20Analysis%20Tools/Top%205%20Deep%20Learning%20Frameworks%20Tutorial/Top%205%20Deep%20Learning%20Frameworks%20Tutorial.ipynb)
+1. [Big Data](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/5-%20Big%20Data/A%20Data%20Science%20Framework%20for%20Quora/A%20Data%20Science%20Framework%20for%20Quora.ipynb)
 1. [Data visualization]
 1. [Data Cleaning]
-1. [How to solve Problem?]
-1. [Machine Learning]
-1. [Deep Learning]
+1. [How to solve Problem?](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/8-%20How%20to%20solve%20Problem/A%20Data%20Science%20Framework%20for%20Quora/A%20Data%20Science%20Framework%20for%20Quora.ipynb)
+1. [Machine Learning](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/9-A%20Comprehensive%20Machine%20Learning%20Workflow%20with%20Python/A%20Comprehensive%20ML%20Workflow%20with%20Python.ipynb)
+1. [Deep Learning](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/tree/master/10-A%20comprehensive%20Deep%20Learning%20WorkFlow%20With%20Python)
 
 ---------------------------
 
