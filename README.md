@@ -3,6 +3,8 @@
  <a id="0"></a> <br>
  
  # 10 Steps to Become a Data Scientist
+ 
+  
 1. [Python]
 1. [Python Packages]
 1. [Mathematics and Linear Algebra]
@@ -14,7 +16,7 @@
 1. [Machine Learning]
 1. [Deep Learning]
 
- <div align="center">quite practical and far from any theoretical concepts</div>
+---------------------------
 
 #  Introduction
 If you Read and Follow **Job Ads** to hire a machine learning expert or a data scientist, you find that some skills you should have to get the job.
