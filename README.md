@@ -57,61 +57,117 @@ for Reading this section **please** fork and upvote  this kernel:
 
 # 2-Python Packages
 * Numpy
+
 * Pandas
+
 * Matplotlib
+
 * Seaborn
+
 <img src="http://s8.picofile.com/file/8338227868/packages.png">
 we have a comprehensive tutorials for Five packages in python after that you can read my other kernels about machine learning
 1. Numpy
+
  1. Creating Arrays
+ 
  1. Combining Arrays
+ 
  1. Operations
+ 
  1. Math Functions
+ 
  1. Indexing / Slicing
+ 
  1. Copying Data
+ 
  1. Iterating Over Arrays
+ 
  1. The Series Data Structure
+ 
  1. Querying a Series
+ 
 1. Pandas
+
  1. The DataFrame Data Structure
+ 
  1. Dataframe Indexing and Loading
+ 
  1. Missing values
+ 
  1. Merging Dataframes
+ 
  1. Making Code Pandorable
+ 
  1. Group by
+ 
  1. Scales
+ 
  1. Pivot Tables
+ 
  1. Date Functionality
+ 
  1. Distributions in Pandas
+ 
  1. Hypothesis Testing
+ 
  1. Matplotlib
+ 
  1. Scatterplots
+ 
  1. Line Plots
+ 
  1. Bar Charts
+ 
  1. Histograms
- 1. Box and Whisker Plots
+ 
+ 1. Box and Whiske
+ 
+ r Plots
+ 
  1. Heatmaps
+ 
  1. Animations
+ 
  1. Interactivity
+ 
  1. DataFrame.plot
+ 
 1. seaborn
+
  1. Seaborn Vs Matplotlib
+ 
  1. Useful Python Data Visualization Libraries
+ 
 1. SKlearn
+
  1. Introduction
+ 
  1. Algorithms
+ 
  1. Framework
+ 
  1. Applications
+ 
  1. Data
+ 
  1. Supervised Learning: Classification
+ 
  1. Separate training and testing sets
+ 
  1. linear, binary classifier
+ 
  1. Prediction
+ 
  1. Back to the original three-class problem
+ 
  1. Evaluating the classifier
+ 
  1. Using the four flower attributes
+ 
  1. Unsupervised Learning: Clustering
+ 
  1. Supervised Learning: Regression
+ 
 for Reading this section **please** fork and upvote  this kernel:
 
 [numpy-pandas-matplotlib-seaborn-scikit-learn](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/2-python%20packages/The%20Data%20Scientist%E2%80%99s%20Toolbox%20Tutorial.ipynb)
@@ -125,6 +181,7 @@ for Reading this section **please** fork and upvote  this kernel:
 
 [A-Journey-with-scikit-learn](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/2-python%20packages/A%20Journey%20with%20Scikit-Learn%20%2B%2020%20ML%20Algorithms.ipynb)
 <a id="45"></a> <br>
+
 ##  3- Mathematics and Linear Algebra
 
 <img src=" https://s3.amazonaws.com/www.mathnasium.com/upload/824/images/algebra.jpg " height="300" width="300">
@@ -132,7 +189,13 @@ for Reading this section **please** fork and upvote  this kernel:
 for Reading this section **please** fork and upvote  this kernel:
 
 [Linear Algebra in 60 Minutes](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/3-%20Mathematics%20and%20Linear%20Algebra/Linear%20Algebra%20for%20Data%20Scientists.ipynb)
+
 ## 4- Programming & Analysis Tools
+
+for Reading this section **please** fork and upvote  this kernel:
+
+[Linear Algebra in 60 Minutes](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/4-Programming%20%26%20Analysis%20Tools/Top%205%20Deep%20Learning%20Frameworks%20Tutorial/Top%205%20Deep%20Learning%20Frameworks%20Tutorial.ipynb)
+
 ## 5- Big Data
 
 for Reading this section **please** fork and upvote  this kernel:
