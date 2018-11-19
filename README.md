@@ -56,6 +56,7 @@ for Reading this section **please** fork and upvote  this kernel:
 [numpy-pandas-matplotlib-seaborn-scikit-learn](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/1-python/The%20Data%20Scientist%E2%80%99s%20Toolbox%20Tutorial.ipynb)
 
 # 2-Python Packages
+
 * Numpy
 
 * Pandas
@@ -66,6 +67,7 @@ for Reading this section **please** fork and upvote  this kernel:
 
 <img src="http://s8.picofile.com/file/8338227868/packages.png">
 we have a comprehensive tutorials for Five packages in python after that you can read my other kernels about machine learning
+
 1. Numpy
 
  1. Creating Arrays
@@ -120,9 +122,7 @@ we have a comprehensive tutorials for Five packages in python after that you can
  
  1. Histograms
  
- 1. Box and Whiske
- 
- r Plots
+ 1. Box Plots
  
  1. Heatmaps
  
