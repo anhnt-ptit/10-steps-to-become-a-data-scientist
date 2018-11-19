@@ -218,6 +218,7 @@ for Reading this section **please** fork and upvote  this kernel:
 for Reading this section **please** fork and upvote  this kernel:
 
 [A-Comprehensive-Deep-Learning-Workflow-with-Python](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/tree/master/10-A%20comprehensive%20Deep%20Learning%20WorkFlow%20With%20Python)
+
 ---------------------------------------------------------------------
  **Have Fun!**
 > ###### 1. Follow me On [GitHub](https://github.com/mjbahmani/)
