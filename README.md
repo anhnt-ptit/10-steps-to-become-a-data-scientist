@@ -10,8 +10,8 @@
 1. [Mathematics and Linear Algebra](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/3-%20Mathematics%20and%20Linear%20Algebra/Linear%20Algebra%20for%20Data%20Scientists.ipynb)
 1. [Programming & Analysis Tools](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/4-Programming%20%26%20Analysis%20Tools/Top%205%20Deep%20Learning%20Frameworks%20Tutorial/Top%205%20Deep%20Learning%20Frameworks%20Tutorial.ipynb)
 1. [Big Data](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/5-%20Big%20Data/A%20Data%20Science%20Framework%20for%20Quora/A%20Data%20Science%20Framework%20for%20Quora.ipynb)
-1. [Data visualization]
-1. [Data Cleaning]
+1. [Data visualization](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/8-%20How%20to%20solve%20Problem/20%20ML%20Algorithms%20from%20start%20to%20Finish%20for%20Iris/20%20ML%20Algorithms%20from%20start%20to%20Finish%20for%20Iris.ipynb)
+1. [Data Cleaning](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/8-%20How%20to%20solve%20Problem/A%20Comprehensive%20Machine%20Learning%20WorkFlow%20for%20House%20Price%20prediction/A%20Comprehensive%20Machine%20ML%20Workflow%20%20for%20House%20Prices.ipynb)
 1. [How to solve Problem?](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/8-%20How%20to%20solve%20Problem/A%20Data%20Science%20Framework%20for%20Quora/A%20Data%20Science%20Framework%20for%20Quora.ipynb)
 1. [Machine Learning](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/9-A%20Comprehensive%20Machine%20Learning%20Workflow%20with%20Python/A%20Comprehensive%20ML%20Workflow%20with%20Python.ipynb)
 1. [Deep Learning](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/tree/master/10-A%20comprehensive%20Deep%20Learning%20WorkFlow%20With%20Python)
@@ -202,9 +202,15 @@ for Reading this section **please** fork and upvote  this kernel:
 
 [A-Comprehensive-Deep-Learning-Workflow-with-Python](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/5-%20Big%20Data/A%20Data%20Science%20Framework%20for%20Quora/A%20Data%20Science%20Framework%20for%20Quora.ipynb)
 ## 6- Data Visualization
-we will release the full version of Deep Learning **Coming Soon**
+
+for Reading this section **please** fork and upvote  this kernel:
+1. [Data visualization](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/8-%20How%20to%20solve%20Problem/20%20ML%20Algorithms%20from%20start%20to%20Finish%20for%20Iris/20%20ML%20Algorithms%20from%20start%20to%20Finish%20for%20Iris.ipynb)
+
 ## 7- Data Cleaning
-we will release the full version of Deep Learning **Coming Soon**
+
+for Reading this section **please** fork and upvote  this kernel:
+
+[Data Cleaning](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/8-%20How%20to%20solve%20Problem/A%20Comprehensive%20Machine%20Learning%20WorkFlow%20for%20House%20Price%20prediction/A%20Comprehensive%20Machine%20ML%20Workflow%20%20for%20House%20Prices.ipynb)
 ## 8- How to solve Problem?
 **Data Science has so many techniques and procedures that can confuse anyone.**
 for Reading this section **please** fork and upvote  this kernel:
