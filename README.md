@@ -184,8 +184,6 @@ for Reading this section **please** fork and upvote  this kernel:
 
 ##  3- Mathematics and Linear Algebra
 
-<img src=" https://s3.amazonaws.com/www.mathnasium.com/upload/824/images/algebra.jpg " height="300" width="300">
-
 for Reading this section **please** fork and upvote  this kernel:
 
 [Linear Algebra in 60 Minutes](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/3-%20Mathematics%20and%20Linear%20Algebra/Linear%20Algebra%20for%20Data%20Scientists.ipynb)
@@ -221,7 +219,7 @@ for Reading this section **please** fork and upvote  this kernel:
 
 [A-Comprehensive-Deep-Learning-Workflow-with-Python](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/tree/master/10-A%20comprehensive%20Deep%20Learning%20WorkFlow%20With%20Python)
 ---------------------------------------------------------------------
- Have Fun!
+ **Have Fun!**
 > ###### 1. Follow me On [GitHub](https://github.com/mjbahmani/)
  
 > ###### 2. Follow me On [Kaggle](https://www.kaggle.com/mjbahmani)
