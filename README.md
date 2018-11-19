@@ -19,6 +19,7 @@
 ---------------------------
 
 #  Introduction
+
 If you Read and Follow **Job Ads** to hire a machine learning expert or a data scientist, you find that some skills you should have to get the job.
 In this Repository, I want to review **10 skills** that are essentials to get the job
 
@@ -26,7 +27,7 @@ In fact, this Repository is a reference for **10 other Notebooks**, which you ca
 # 1-Python
 Python is a modern, robust, high level programming language. It is very easy to pick up even if you are completely new to programming.
 
-You ca read and learn following topic:
+You can read and learn following topic on this Notebook:
 
 1. web development (server-side)
 
@@ -53,6 +54,7 @@ You ca read and learn following topic:
 1. Lambda and List Comprehensions
 
 1. OOP
+
 for Reading this section **please** fork and upvote  this kernel:
 
 [numpy-pandas-matplotlib-seaborn-scikit-learn](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/1-python/The%20Data%20Scientist%E2%80%99s%20Toolbox%20Tutorial.ipynb)
@@ -177,7 +179,7 @@ for Reading this section **please** fork and upvote  this kernel:
 <a id="44"></a> <br>
 ## 2-4 SKlearn
 
-<img src="http://scikit-learn.org/stable/_static/scikit-learn-logo-small.png">
+
 
 for Reading this section **please** fork and upvote  this kernel:
 
@@ -212,7 +214,7 @@ for Reading this section **please** fork and upvote  this kernel:
 
 [Data Cleaning](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/8-%20How%20to%20solve%20Problem/A%20Comprehensive%20Machine%20Learning%20WorkFlow%20for%20House%20Price%20prediction/A%20Comprehensive%20Machine%20ML%20Workflow%20%20for%20House%20Prices.ipynb)
 ## 8- How to solve Problem?
-**Data Science has so many techniques and procedures that can confuse anyone.**
+
 for Reading this section **please** fork and upvote  this kernel:
 
 [A-Comprehensive-Deep-Learning-Workflow-with-Python](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/5-%20Big%20Data/A%20Data%20Science%20Framework%20for%20Quora/A%20Data%20Science%20Framework%20for%20Quora.ipynb)
