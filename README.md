@@ -72,8 +72,10 @@ for Reading this section **please** fork this kernel:
 * Matplotlib
 
 * Seaborn
-
+ <div align="center">
+ 
 <img src="http://s8.picofile.com/file/8338227868/packages.png">
+  </div>
 In this Step, we have a **comprehensive tutorials** for Five packages in python after that you can start reading my other kernels about machine learning and deep learning.
 
 ### 1. Numpy
