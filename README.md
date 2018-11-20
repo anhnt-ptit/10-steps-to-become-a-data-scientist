@@ -78,7 +78,7 @@ for Reading this section **please** fork this kernel:
   </div>
 In this Step, we have a **comprehensive tutorials** for Five packages in python after that you can start reading my other kernels about machine learning and deep learning.
 
-### 1. Numpy
+### 2-1. Numpy
 
  1. Creating Arrays
  
@@ -98,7 +98,7 @@ In this Step, we have a **comprehensive tutorials** for Five packages in python 
  
  1. Querying a Series
  
-### 2. Pandas
+### 2-2. Pandas
 
  1. The DataFrame Data Structure
  
@@ -142,13 +142,13 @@ In this Step, we have a **comprehensive tutorials** for Five packages in python 
  
  1. DataFrame.plot
  
-### 3. seaborn
+### 2-3. seaborn
 
  1. Seaborn Vs Matplotlib
  
  1. Useful Python Data Visualization Libraries
  
-### 4. SKlearn
+### 2-4. SKlearn
 
  1. Introduction
  
