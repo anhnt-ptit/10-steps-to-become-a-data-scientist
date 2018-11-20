@@ -59,7 +59,7 @@ You can read and learn following topic on this Notebook:
 
 1. OOP
 
-for Reading this section **please** fork and upvote  this kernel:
+for Reading this section **please** fork this kernel:
 
 [numpy-pandas-matplotlib-seaborn-scikit-learn](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/1-python/The%20Data%20Scientist%E2%80%99s%20Toolbox%20Tutorial.ipynb)
 
@@ -74,9 +74,9 @@ for Reading this section **please** fork and upvote  this kernel:
 * Seaborn
 
 <img src="http://s8.picofile.com/file/8338227868/packages.png">
-we have a comprehensive tutorials for Five packages in python after that you can read my other kernels about machine learning
+In this Step, we have a **comprehensive tutorials** for Five packages in python after that you can start reading my other kernels about machine learning and deep learning.
 
-1. Numpy
+### 1. Numpy
 
  1. Creating Arrays
  
@@ -96,7 +96,7 @@ we have a comprehensive tutorials for Five packages in python after that you can
  
  1. Querying a Series
  
-1. Pandas
+### 1. Pandas
 
  1. The DataFrame Data Structure
  
@@ -140,13 +140,13 @@ we have a comprehensive tutorials for Five packages in python after that you can
  
  1. DataFrame.plot
  
-1. seaborn
+### 1. seaborn
 
  1. Seaborn Vs Matplotlib
  
  1. Useful Python Data Visualization Libraries
  
-1. SKlearn
+### 1. SKlearn
 
  1. Introduction
  
@@ -176,50 +176,50 @@ we have a comprehensive tutorials for Five packages in python after that you can
  
  1. Supervised Learning: Regression
  
-for Reading this section **please** fork and upvote  this kernel:
+for Reading this section **please** fork this kernel:
 
 [numpy-pandas-matplotlib-seaborn-scikit-learn](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/2-python%20packages/The%20Data%20Scientist%E2%80%99s%20Toolbox%20Tutorial.ipynb)
 
 ##  3- Mathematics and Linear Algebra
 
-for Reading this section **please** fork and upvote  this kernel:
+for Reading this section **please** fork this kernel:
 
 [Linear Algebra in 60 Minutes](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/3-%20Mathematics%20and%20Linear%20Algebra/Linear%20Algebra%20for%20Data%20Scientists.ipynb)
 
 ## 4- Programming & Analysis Tools
 
-for Reading this section **please** fork and upvote  this kernel:
+for Reading this section **please** fork and upvote this kernel:
 
 [Linear Algebra in 60 Minutes](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/4-Programming%20%26%20Analysis%20Tools/Top%205%20Deep%20Learning%20Frameworks%20Tutorial/Top%205%20Deep%20Learning%20Frameworks%20Tutorial.ipynb)
 
 ## 5- Big Data
 
-for Reading this section **please** fork and upvote  this kernel:
+for Reading this section **please** fork this kernel:
 
 [A-Comprehensive-Deep-Learning-Workflow-with-Python](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/5-%20Big%20Data/A%20Data%20Science%20Framework%20for%20Quora/A%20Data%20Science%20Framework%20for%20Quora.ipynb)
 ## 6- Data Visualization
 
-for Reading this section **please** fork and upvote  this kernel:
+for Reading this section **please** fork this kernel:
 1. [Data visualization](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/8-%20How%20to%20solve%20Problem/20%20ML%20Algorithms%20from%20start%20to%20Finish%20for%20Iris/20%20ML%20Algorithms%20from%20start%20to%20Finish%20for%20Iris.ipynb)
 
 ## 7- Data Cleaning
 
-for Reading this section **please** fork and upvote  this kernel:
+for Reading this section **please** fork   this kernel:
 
 [Data Cleaning](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/8-%20How%20to%20solve%20Problem/A%20Comprehensive%20Machine%20Learning%20WorkFlow%20for%20House%20Price%20prediction/A%20Comprehensive%20Machine%20ML%20Workflow%20%20for%20House%20Prices.ipynb)
 ## 8- How to solve Problem?
 
-for Reading this section **please** fork and upvote  this kernel:
+for Reading this section **please** fork   this kernel:
 
 [A-Comprehensive-Deep-Learning-Workflow-with-Python](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/5-%20Big%20Data/A%20Data%20Science%20Framework%20for%20Quora/A%20Data%20Science%20Framework%20for%20Quora.ipynb)
 ## 9- Machine learning  
-for Reading this section **please** fork and upvote  this kernel:
+for Reading this section **please** fork  this kernel:
 
 [A Comprehensive ML Workflow with Python](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/9-A%20Comprehensive%20Machine%20Learning%20Workflow%20with%20Python/A%20Comprehensive%20ML%20Workflow%20with%20Python.ipynb)
 
 ##  10- Deep Learning
 
-for Reading this section **please** fork and upvote  this kernel:
+for Reading this section **please** fork   this kernel:
 
 [A-Comprehensive-Deep-Learning-Workflow-with-Python](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/tree/master/10-A%20comprehensive%20Deep%20Learning%20WorkFlow%20With%20Python)
 
