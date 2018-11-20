@@ -2,8 +2,7 @@
 <img src="http://s9.picofile.com/file/8338833934/DS.png"/>
  <a id="0"></a> <br>
  
- # 10 Steps to Become a Data Scientist [![Awesome]
- 
+ # 10 Steps to Become a Data Scientist [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
   
 1. [Python](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/1-python/The%20Data%20Scientist%E2%80%99s%20Toolbox%20Tutorial.ipynb)
 1. [Python Packages](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/1-python/The%20Data%20Scientist%E2%80%99s%20Toolbox%20Tutorial.ipynb)
