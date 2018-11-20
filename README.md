@@ -1,9 +1,9 @@
 <img src="http://s9.picofile.com/file/8338833934/DS.png"/>
  <a id="0"></a> <br>
  <div align="center">
- <p>
+  
  # 10 Steps to Become a Data Scientist
- </p>
+  
  </div>
 ## Table of Contents  
 
