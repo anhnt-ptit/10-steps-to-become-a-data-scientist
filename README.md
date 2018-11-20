@@ -1,10 +1,12 @@
-<img src="http://s9.picofile.com/file/8338833934/DS.png"/>
- <a id="0"></a> <br>
  <div align="center">
+ 
+<img src="http://s9.picofile.com/file/8338833934/DS.png"/>
+
   
  # 10 Steps to Become a Data Scientist
   
  </div>
+ 
 ## Table of Contents  
 
 1. [Python](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/1-python/The%20Data%20Scientist%E2%80%99s%20Toolbox%20Tutorial.ipynb)
