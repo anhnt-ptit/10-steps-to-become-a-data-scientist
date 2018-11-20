@@ -98,7 +98,7 @@ In this Step, we have a **comprehensive tutorials** for Five packages in python 
  
  1. Querying a Series
  
-### 1. Pandas
+### 2. Pandas
 
  1. The DataFrame Data Structure
  
@@ -142,13 +142,13 @@ In this Step, we have a **comprehensive tutorials** for Five packages in python 
  
  1. DataFrame.plot
  
-### 1. seaborn
+### 3. seaborn
 
  1. Seaborn Vs Matplotlib
  
  1. Useful Python Data Visualization Libraries
  
-### 1. SKlearn
+### 4. SKlearn
 
  1. Introduction
  
