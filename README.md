@@ -2,7 +2,7 @@
 <img src="http://s9.picofile.com/file/8338833934/DS.png"/>
  <a id="0"></a> <br>
  
- # 10 Steps to Become a Data Scientist [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+ # 10 Steps to Become a Data Scientist
  
 ## Table of Contents  
 
