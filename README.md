@@ -227,6 +227,17 @@ for Reading this section **please** fork   this kernel:
 
 <img src='https://cdn-images-1.medium.com/max/800/1*dYjDEI0mLpsCOySKUuX1VA.png'>
 ---------------------------------------------------------------------
+# Help
+I hope you have enjoyed reading my python notebook.
+
+If you have any problem to run notebook please open an issue here in github.
+
+for most of the my notebook you need **dataset** as input.
+To use the **correct data**, please **download** the dat set from  the **Kaggle** site and put it in your notebook folder.
+
+**Mj Bhamnai**
+mohamadjavad.bahmani@gmail.com
+
  **Have Fun!**
  
 > ###### 1. Follow me On [GitHub](https://github.com/mjbahmani/)
