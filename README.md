@@ -76,6 +76,7 @@ for Reading this section **please** fork this kernel:
  
 <img src="http://s8.picofile.com/file/8338227868/packages.png">
   </div>
+  
 In this Step, we have a **comprehensive tutorials** for Five packages in python after that you can start reading my other kernels about machine learning and deep learning.
 
 ### 2-1. Numpy
@@ -202,6 +203,7 @@ for Reading this section **please** fork this kernel:
 ## 6- Data Visualization
 
 for Reading this section **please** fork this kernel:
+
 1. [Data visualization](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/8-%20How%20to%20solve%20Problem/20%20ML%20Algorithms%20from%20start%20to%20Finish%20for%20Iris/20%20ML%20Algorithms%20from%20start%20to%20Finish%20for%20Iris.ipynb)
 
 ## 7- Data Cleaning
@@ -215,6 +217,7 @@ for Reading this section **please** fork   this kernel:
 
 [A-Comprehensive-Deep-Learning-Workflow-with-Python](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/5-%20Big%20Data/A%20Data%20Science%20Framework%20for%20Quora/A%20Data%20Science%20Framework%20for%20Quora.ipynb)
 ## 9- Machine learning  
+
 for Reading this section **please** fork  this kernel:
 
 [A Comprehensive ML Workflow with Python](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/9-A%20Comprehensive%20Machine%20Learning%20Workflow%20with%20Python/A%20Comprehensive%20ML%20Workflow%20with%20Python.ipynb)
@@ -227,15 +230,19 @@ for Reading this section **please** fork   this kernel:
 
 <img src='https://cdn-images-1.medium.com/max/800/1*dYjDEI0mLpsCOySKUuX1VA.png'>
 ---------------------------------------------------------------------
+
 # Help
+
 I hope you have enjoyed reading my python notebook.
 
 If you have any problem to run notebook please open an issue here in github.
 
 for most of the my notebook you need **dataset** as input.
+
 To use the **correct data**, please **download** the dat set from  the **Kaggle** site and put it in your notebook folder.
 
 **Mj Bhamnai**
+
 mohamadjavad.bahmani@gmail.com
 
  **Have Fun!**
