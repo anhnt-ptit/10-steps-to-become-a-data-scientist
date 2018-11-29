@@ -1,0 +1,8 @@
+Hi every one, 
+I hope you have enjoyed reading my python notebook.
+if you have any problem to run notebook please open an issue here in github.
+for most of the my notebook you need data set as input.
+To use the correct data, please download the dat set from  the Kaggle site and put it in your notebook folder.
+Have fun!
+Mj Bhamnai
+mohamadjavad.bahmani@gmail.com
