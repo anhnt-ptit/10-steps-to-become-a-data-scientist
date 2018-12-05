@@ -212,7 +212,8 @@ for Reading this section **please** fork   this kernel:
 
 [Data Cleaning](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/8-%20How%20to%20solve%20Problem/A%20Comprehensive%20Machine%20Learning%20WorkFlow%20for%20House%20Price%20prediction/A%20Comprehensive%20Machine%20ML%20Workflow%20%20for%20House%20Prices.ipynb)
 ## 8- How to solve Problem?
-
+The purpose of this section is to solve a few real problem.
+so, we have tried to solve some problems such as Quora, Elo, House price prediction.
 for Reading this section **please** fork   this kernel:
 
 [A-Comprehensive-Deep-Learning-Workflow-with-Python](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/5-%20Big%20Data/A%20Data%20Science%20Framework%20for%20Quora/A%20Data%20Science%20Framework%20for%20Quora.ipynb)
