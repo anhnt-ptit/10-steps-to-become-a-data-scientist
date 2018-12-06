@@ -236,7 +236,7 @@ for Reading this section **please** fork   this kernel:
 
 I hope you have enjoyed reading my python notebook.
 
-If you have any problem to run notebook please open an issue here in github.
+If you have any problem and question to run notebook please open an issue here in github.
 
 for most of the my notebook you need **dataset** as input.
 
