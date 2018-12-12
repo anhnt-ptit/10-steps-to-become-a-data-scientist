@@ -1,8 +1,5 @@
  <div align="center">
  
-<img src="http://s9.picofile.com/file/8338833934/DS.png"/>
-
-  
  # 10 Steps to Become a Data Scientist
   
  </div>
