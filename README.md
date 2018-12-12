@@ -6,6 +6,8 @@
  # 10 Steps to Become a Data Scientist
   
  </div>
+ ---------------------------
+ 
 1. [Python](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/1-python/The%20Data%20Scientist%E2%80%99s%20Toolbox%20Tutorial.ipynb)
 1. [Python Packages](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/1-python/The%20Data%20Scientist%E2%80%99s%20Toolbox%20Tutorial.ipynb)
 1. [Mathematics and Linear Algebra](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/3-%20Mathematics%20and%20Linear%20Algebra/Linear%20Algebra%20for%20Data%20Scientists.ipynb)
