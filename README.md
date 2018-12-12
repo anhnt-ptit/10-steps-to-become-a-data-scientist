@@ -243,6 +243,16 @@ To use the **correct data**, please **download** the dat set from  the **Kaggle*
 **Mj Bhamnai**
 
 mohamadjavad.bahmani@gmail.com
+# Citation
+If you use my code in your research, please cite this project.
+```
+@misc{10-steps-to-become-a-data-scientist,
+  author =       {MJ Bahmani,
+  title =        {10-steps-to-become-a-data-scientist},
+  howpublished = {\url{https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/}},
+  year =         {2018}
+}
+```
 
  **Have Fun!**
  
