@@ -1,6 +1,7 @@
  <div align="center">
  
- # 10 Steps to Become a Data Scientist
+ # 📢 10 Steps to Become a Data Scientist
+ # 💻💾📓✒📊
   
  </div>
 
