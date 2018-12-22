@@ -2,6 +2,7 @@
  
  # 📢 10 Steps to Become a Data Scientist
  ### 💻💾📓✒📊
+ #### 22/12/2018
  
  </div>
  
