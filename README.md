@@ -258,3 +258,5 @@ If you use my code in your research, please cite this project.
 > ###### 1. Follow me On [GitHub](https://github.com/mjbahmani/)
  
 > ###### 2. Follow me On [Kaggle](https://www.kaggle.com/mjbahmani)
+
+> ###### 3. Follow me On [linkedin](https://www.linkedin.com/company/irmatlab/)
