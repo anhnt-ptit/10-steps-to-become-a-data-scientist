@@ -233,11 +233,11 @@ for Reading this section **please** fork   this kernel:
 
 I hope you have enjoyed reading my python notebook.
 
-If you have any problem and question to run notebook please open an issue here in github.
+If you have any problem and question to run notebook please open an issue here in GitHub.
 
 for most of the my notebook you need **dataset** as input.
 
-To use the **correct data**, please **download** the dat set from  the **Kaggle** site and put it in your notebook folder.
+To use the **correct data**, please **download** the data set from  the **Kaggle** site and put it in your notebook folder.
 
 **Mj Bhamnai**
 
