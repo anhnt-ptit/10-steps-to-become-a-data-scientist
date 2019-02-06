@@ -3,7 +3,7 @@
  # 📢 10 Steps to Become a Data Scientist
  # CLEAR DATA. MADE MODEL.
  ### 💻💾📓✒📊
- ### Hello - Hallo - Bonjour - سلام - नमस्ते - 你好 - مرحبا - 여보세요 - Ciao - Hola - Привет 
+ ### Hello- Привет - Hallo - Bonjour - سلام - नमस्ते - 你好 - مرحبا - 여보세요 - Ciao - Hola  
  #### 15/01/2019
  
  </div>
