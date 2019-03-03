@@ -1,1 +1,2 @@
-# Learn python packages such as Pandas, Seaborn, Matplotlib
+# Learn python packages 
+such as Pandas, Seaborn, Matplotlib
